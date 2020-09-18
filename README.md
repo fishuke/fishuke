@@ -9,8 +9,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishuke&layout=compact" alt="fishuke" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fishuke&show_icons=true" alt="fishuke" /></p>
-
 <p align="center">
 <a href="https://codepen.io/fishuke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="fishuke" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/fishuke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fishuke" height="30" width="30" /></a>
