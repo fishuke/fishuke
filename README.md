@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fishuke</h1>
 <h3 align="center">17 years old fullstack developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fishuke" alt="fishuke" /> </p>
-
 - 🔭 I’m currently working on [stalk.live](https://stalk.live)
 
 - 🌱 I’m currently learning **Angular and nestjs**
