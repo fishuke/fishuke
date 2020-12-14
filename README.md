@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fishuke</h1>
 <h3 align="center">17 years old fullstack developer from Turkey</h3>
 
-- 🔭 I’m currently working on [stalk.live](https://stalk.live)
+- 🔭 I’m currently working on [stalk.live](https://stalk.live), [sorubul.net](https://sorubul.net) and freelance projects.
 
 - 🌱 I’m currently using **Angular and nestjs**
 
-<h3>Coding Languages</h3>
+<h3>Languages</h3>
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
