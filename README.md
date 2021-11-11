@@ -3,5 +3,5 @@
 
 <p align="center"> 
 🔭 I’m currently working in [Trendyol](https://trendyol.com) and [stalk.live](https://stalk.live) in my free time.</br>
-🌱 I’m currently learning **Go**.
+🌱 I’m currently learning <b>Go</b>.
 </p>
