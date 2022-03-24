@@ -1,7 +1,7 @@
 # Hi 👋, I'm Adem
 
 ## :tada: Projects
-These are projects that I developed and either still developing or Discontinued.
+These are projects that I developed and either still developing or discontinued.
 
 | Name                | Status       | Description                                                              | Technologies                                                                                                                                 |
 |---------------------|--------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
