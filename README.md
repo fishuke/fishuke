@@ -1,3 +1,8 @@
+# Hi 👋, I'm Adem
+
+## :tada: Projects
+These are projects that I developed and either still developing or Discontinued.
+
 | Name                | Status       | Description                                                              | Technologies                                                                                                                                 |
 |---------------------|--------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 | Stalk.gg            | In progress  | Find most active discord servers and join the voice chat.                | Nextjs, Nestjs, Fastify, Mongodb(Atlas & Realm), CF Workers, SSE, Tailwind<br>Formerly: Angular, Vue, Firebase, Express, Websocket, WindiCss |
