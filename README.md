@@ -1,4 +1,4 @@
-# Hi 👋, I'm Adem
+# Hi 👋, I'm Fishuke
 
 ## :tada: Projects
 These are projects that I developed and either still developing or discontinued.
