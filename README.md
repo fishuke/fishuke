@@ -1,4 +1,3 @@
 # Mehmet Adem Kurşun
 
-I made plenty of projects before, worked in big tech companies and startups... </br>
-I am currently working with my customers to bring their ideas in real life. </br>
+Working with influencers and businesses to bring their ideas to real life [@inofy.co](https://github.com/inofy.co) 🚀 
